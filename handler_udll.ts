@@ -1,0 +1,1 @@
+const service_udll = <T>(args: T): T => { return args; };
