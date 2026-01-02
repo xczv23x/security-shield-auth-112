@@ -1,0 +1,1 @@
+const service_ymlf = <T>(args: T): T => { return args; };
